@@ -1,9 +1,9 @@
 # finetuning-phi-2-text-summarization
 
 ---
-Name      : Arthur Trageser
-NIM        : 1103223090
-Class      : DL TK-46-Gab
+- Name       : Arthur Trageser
+- NIM        : 1103223090
+- Class      : DL TK-46-Gab
 ---
 # Task 3: Abstractive Text Summarization with Phi-2
 
